@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Montserrat";
+    font-family: "Sacramento";
+    font-family: "Merriweather";
+}
+.Heading{
+    background-size: cover;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.541);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#Intro-Heading{
+    font-family: "Merriweather";
+    color: black;
+    font-size: 115px;
+    font-style: oblique;
+}
+#Sub-Heading{
+    font-size: 30px;
+    font-family: "Sacramento";
+    color: black;
+}
+.padding{
+    padding: 50px;
+}
+#oct, #sd, #num{
+    border-radius: 100%;
+    border: deeppink solid 2px;
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+}
+#propic{
+    background-size: cover;
+    border-radius: 100%;
+    border: deeppink solid 2px;
+    width: 250px;
+    height: 250px;
+}
+.Introduction{
+    text-align: center;
+}
+#Hola{
+    font-family: "Montserrat";
+    color: rgb(53, 64, 134);
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 50px;
+}
+#bored, #give{
+    padding-bottom: 150px;
+    font-size: 22px;
+    font-family: "Sacramento";
+}
+#good, #solve{
+    padding: 10px 150px;
+    font-size: 22px;
+    font-family: "Sacramento";
+}
+#Skills{
+    padding-bottom: 40px;
+    font-family: "Montserrat";
+    font-size: 40px;
+    color: rgb(53, 64, 134);
+}
+#git{
+    padding-top: 100px;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+}
+.MySkills{
+    text-align: center;
+    font-family: "Sacramento";
+}
+#play, #life{
+    padding: 10px 20px;
+    font-family: "Sacramento";
+    font-size: 22px;
+}
+#know{
+    padding-bottom: 20px;
+    font-family: "Sacramento";
+    font-size: 22px;
+}
+#octavina, #know, #sad, #math{
+    padding-bottom: 20px;
+    font-family: "Sacramento";
+    font-style: oblique;
+    font-size: 30px;
+    color: rgb(206, 57, 169);
+}
+#music, #moves, #makes{
+    padding-bottom: 40px;
+    font-size: 22px;
+}
+#play{
+    padding-bottom: 5px;
+    font-size: 22px;  
+}
+#person{
+    padding-bottom: 5px;
+    font-size: 22px;    
+    font-style: italic;
+}
+#sing{
+    padding-bottom: 80px;
+    font-size: 22px;    
+    font-style: italic;
+}
+#sing{
+    padding-bottom: 30px;
+}
+.footer{
+    padding: 40px 0px;
+    text-align: center;
+}
+a{
+    padding: 15px;
+}
+body{
+    background: url(../picture/IMG_20200206_204743.jpg);
+    background-size: cover;
+}
